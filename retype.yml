@@ -1,0 +1,24 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: UNICORE
+  label: docs
+  logo: "static/logo.png"
+  logoDark: 
+  logoAlign: left
+
+# links:
+# - text: Вход
+#   link: https://retype.com/guides/getting-started/
+# - text: Github
+#   link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+# edit:
+#   repo: "https://github.com/dacom-core/docs/"
+
+server:
+  host: 127.0.0.1:5005
